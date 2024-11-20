@@ -47,7 +47,7 @@ Step-by-step instructions to get a local copy running:
 
 List tools and dependencies needed:
 - Python 3.10+
-- Other requirements (e.g., `pip install -r requirements.txt`)
+- Other requirements (e.g., `pip install load_dotenv`)
 
 ### Installation
 

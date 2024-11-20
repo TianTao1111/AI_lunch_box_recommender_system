@@ -1,5 +1,5 @@
 # Project Title
-AI_lunch_box_recommender_system
+AI lunch box recommender system, which can automatically generate a shopping list and weekly recipes.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/cajjster/lunch_box_planner.svg)](https://github.com/cajjster/lunch_box_planner/stargazers)

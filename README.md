@@ -22,14 +22,18 @@ AI_lunch_box_recommender_system
 
 Briefly explain:
 -  Extract product information from the ICA supermarket website
--  Generate a shopping list and weekly recipes.
+-  Automatically generate a shopping list and weekly recipes.
 -  Web scraping knowledge is used.
 
 ### Screenshots
 
-Include relevant screenshots or a demo GIF:
+ICA supermarket website:
 ![image](https://github.com/user-attachments/assets/af35366f-da87-4bef-82da-c676000e912a)
+
+Generated shopping list:
 ![image](https://github.com/user-attachments/assets/48f591f2-688e-486e-ae6d-adb23b6849fd)
+
+Generated recipes list:
 ![image](https://github.com/user-attachments/assets/fe9020a0-cc9d-4f42-80f4-339724d8b1ff)
 
 ---

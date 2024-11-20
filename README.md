@@ -14,7 +14,6 @@ AI_lunch_box_recommender_system
 3. [Features](#features)
 4. [Contributing](#contributing)
 5. [License](#license)
-6. [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -92,6 +91,3 @@ Refer to [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Acknowledgments
-
-If there are any
